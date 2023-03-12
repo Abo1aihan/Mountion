@@ -1,0 +1,258 @@
+.mountion{
+    display: flex;
+    max-width: 1600px;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1137px;
+}
+.menu-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 1000px;
+}
+.menu-home{
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    margin-left: 75px;
+    margin-top: 94px;
+}
+.home{
+    
+    z-index: 2;
+}
+.home-txt{
+    margin-left: 35px;
+}
+.block{
+    width: 150px;
+    position: absolute;
+    z-index: 1;
+    left: 140px;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    width: 150px;
+    height: 40px;
+    margin-left: 75px;
+    margin-top: 60px;
+}
+.menu-txt{
+    margin-left: 16px;
+}
+.menu-sign-out{
+    margin-top: 165px;
+    margin-left: 27px;
+}
+.discover-wrapper{
+    margin-left: 81px;
+}
+.search-wrapper{
+    display: flex;
+    height: 58px;
+}
+.search-box{
+    
+    position: relative;
+}
+.search{
+    border-radius: 26.5px;
+    width: 668px;
+    height: 53px;
+    padding-left: 50px;
+}
+.search-normal{
+    position: absolute;
+    left: 18px;
+    top: 15px;
+    
+}
+.filter-wrapper{
+    
+    position: relative;
+}
+.filter{
+    margin-left: 62px;
+}
+.filtr{
+    position: absolute;
+    left: 76px;
+    top: 14px;
+}
+.category-wrapper{
+    margin-top: 58px;
+    width: 353px;
+    height: 90px;
+}
+.discpver{
+    font-size: 30px;
+}
+.category{
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+}
+.biomes{
+    margin-top:38px ;
+    width: 780px;
+    display: flex;
+    justify-content: space-between;
+}
+.night-wrapper{
+    position: relative;
+}
+.heart-wrapper{
+    top: 10px;
+    
+}
+.room{
+    z-index: 1;
+    position: absolute;
+    top:25px;
+    left: 166px;
+}
+.heart{
+    z-index: 2;
+    top: 37px;
+    left: 177px;
+    position: absolute;
+}
+.night-txt{
+    
+    display: flex;
+    margin-top: 21px;
+    font-size: 22px;
+}
+.night{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 148px;
+    margin-top: 10px;
+}
+.star{
+    margin-top: 10px;
+}
+.date-wrapper{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+    height: 48px;
+}
+.date{
+    font-weight: 700;
+    font-size: 30px;
+}
+.day{
+    left: 610px; 
+    position: absolute;
+    border: 1px solid #B4BCC4;
+    width: 175px;
+    height: 48px;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.week-wrapper{
+    position: relative;
+    margin-top: 64px;
+    width: 783px;
+    height: 111px;
+    display: flex;
+    justify-content: space-between;
+}
+.week{
+    width: 26px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.every{
+    z-index: 1;
+    height: 111px;
+    width: 64px;
+    background-color: #18333E;
+    border-radius: 32px;
+    position: absolute;
+    left: 75px;
+    bottom: 15px;
+}
+.every-yellow{
+    width: 5px;
+    height: 8px;
+    border-radius: 13.5px;
+    background-color: #f9d44a;
+    position: absolute;
+    top: 47px;
+    left: 30px;
+}
+.txt{
+    color: #18333E;
+
+}
+.txt-tu{
+    margin-left: 3px;
+    color: white;
+    z-index: 2;
+}
+.number{
+    z-index: 2;
+    font-size: 25px;
+    font-weight: 500px;
+}
+.number-12{
+    color: white;
+    z-index: 2;
+    font-size: 25px;
+    font-weight: 500px;
+}
+.travel-wrapper{
+    margin-top: 61px;
+    display: flex;
+    justify-content: space-between;
+}
+.travel{
+    position: relative;
+    display: flex;
+    width: 457px;
+    height: 119px;
+    border-radius: 25px;
+    background-color: #18333E;
+}
+.mask{
+    margin-top: 23px;
+    margin-left: 24px;
+    margin-bottom: 23px;
+}
+.travel-txt{
+    display: flex;
+    flex-wrap: wrap;
+    width: 160px;
+    height: 30px;
+    margin-left: 29px;
+    margin-top: 35px;
+    color: white;
+}
+.travel-number{
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.travel-star{
+    position: absolute;
+    left: 123px;
+    top: 55px;
+}
+.more{
+    position: absolute;
+    left: 410px;
+    top: 35px;
+}
