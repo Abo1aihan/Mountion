@@ -216,7 +216,7 @@
     font-weight: 500px;
 }
 .travel-wrapper{
-    margin-top: 61px;
+    margin-top: 33px;
     display: flex;
     justify-content: space-between;
 }
@@ -255,4 +255,166 @@
     position: absolute;
     left: 410px;
     top: 35px;
+}
+.recommendations-wrapper{
+    height: 1150px;
+    width: 394px;
+    margin-left: 74px;
+}
+.profile-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 36px;
+    align-items: center;
+}
+.profile-wraper-line{
+    width: 0px;
+    height: 41px;
+    border: 1px solid #B4BCC4
+}
+.profile-wrapper-location{
+    justify-content: space-between;
+    width: 125px;
+    display: flex;
+}
+.orange-room{
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: #ff7f5c;
+    position: absolute;
+    left:1617px;
+    top:35px;
+}
+.bell-wrapper{
+    position: relative;
+    height: 53px;
+    width: 53px;
+    border: 1px solid #B4BCC4;
+    border-radius: 50px;
+}
+.bell{
+    position: absolute;
+    left: 15px;
+    top:15px;
+}
+.places-wrapper{
+    margin-top: 64px;
+    position: relative;
+}
+.places{
+    top: 190px;
+    left: 34px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    width: 326px;
+    height: 71px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+.txt-wrapper{
+    margin-top: 31px;
+}
+.txt{
+    display: flex;
+    justify-content: space-between;
+}
+.txt-brazil{
+    font-size: 30px;
+    font-weight: 600px;
+    padding-bottom:15px ;
+}
+.text{
+    color: #18333e;
+}
+.book-travel{
+    margin-top: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.money-wrapper{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 107px;
+    height: 70px;
+}
+.money{
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight: 600px;
+}
+.book{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 175px;
+    height: 61px;
+    border-radius: 30px;
+    background-color: #18333E;
+}
+.grade-wrapper{
+    margin-top: 48px;
+    width: 395px;
+    height: 92px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.text-wrapper{
+    margin-left: 10px;
+}
+.nature{
+    font-size: 22px;
+    font-weight: 500px;
+}
+.heart-wrapper1{
+    margin-left: 190px;
+}
+.room1{
+    z-index: 1;
+    position: absolute;
+    top: 750px;
+    left: 1666px;
+    background-color: #E9F1FA;
+}
+.heart1{
+    z-index: 2;
+    position: absolute;
+    top: 762px;
+    left: 1677px;
+}
+.location{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.room2{
+    z-index: 1;
+    position: absolute;
+    top: 900px;
+    left: 1666px;
+    background-color: #E9F1FA;
+}
+.heart2{
+    z-index: 2;
+    position: absolute;
+    top: 912px;
+    left: 1677px;
+}
+.room3{
+    z-index: 1;
+    position: absolute;
+    top: 1036px;
+    left: 1666px;
+    background-color: #E9F1FA;
+}
+.heart3{
+    z-index: 2;
+    position: absolute;
+    top: 1048px;
+    left: 1677px;
 }
